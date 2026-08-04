@@ -1,5 +1,40 @@
                                   GIT & GITHUB
-             ----------------------------------------------------
+             ----------------------------------------------------------
 
 
-             
+Git - Git id Distributed Version Control System
+    - Version control means keeping track of changes made to project
+    - Track changes in the code
+    - Save different versions of the code
+    - Working with other developers  
+    - Restore old versions if something goes wrong
+
+
+Respiratory - It is simply a project folder that Git manages
+Commit - It is a saved snapshot of your project at a specific point of time
+Github - It is a cloud platform that stores git respitories online,where git projects are stored, shared and collaberated on
+
+
+     GIT Commands
+    -----------------
+
+    git --version - check if git is installed
+    git init - ti initialize a new git repository'
+    git status - show the current status of the repository
+    git add . - stage all changes
+    git commit - m "message"- save a snapshot of staged changes
+    {
+        git remote add origin url - Link a local repository to Github
+        git push - u origin main - upload code to github and set upstream
+
+    }
+    Git push - Upload new commits
+    Git pull - Download and merge changes from github
+    Git clone <url> - copy a remote repository to your computer
+
+ 
+
+
+
+
+ 
